@@ -1,6 +1,6 @@
 [![banner](assets/banner.png)](http://introtodeeplearning.com)
 
-This repository contains all of the code and software labs for [MIT Introduction to Deep Learning](http://introtodeeplearning.com)! All lecture slides and videos are available on the program website.
+This repository contains all of my solutions and edits to the code and software labs provided for [MIT Introduction to Deep Learning](http://introtodeeplearning.com)! All lecture slides and videos are available on the program website.
 
 # Instructions
 MIT Introduction to Deep Learning software labs are designed to be completed at your own pace. At the end of each of the labs, there will be instructions on how you can submit your materials as part of the lab competitions. These instructions include what information must be submitted and in what format.
